@@ -10,7 +10,7 @@ col = ['MedInc', 'HouseAge', 'AveRooms', 'AveBedrms', 'Population', 'AveOccup']
 
 st.title('California Housing Price Prediction')
 
-st.image('C:\Users\Amit\OneDrive\Desktop\pexels-tomas-malik-793526-2581922.jpg')
+st.image('https://goodmoneying.com/wp-content/uploads/2017/03/Income-from-House-property.jpg')
 
 
 
@@ -22,7 +22,7 @@ st.header('Model of housing prices to predict median house values in California 
 
 st.sidebar.title('Select House Features 🏠')
 
-st.sidebar.image('https://png.pngtree.com/thumb_back/fh260/background/20230804/pngtree-an-upside-graph-showing-prices-and-houses-in-the-market-image_13000262.jpg')
+st.sidebar.image('https://housing.com/news/wp-content/uploads/2024/01/What-is-a-house-property-What-are-its-many-types-f.jpg')
 
 
 # read_data
